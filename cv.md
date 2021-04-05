@@ -18,6 +18,7 @@ Recently I moved to Krasnodar and I plan to start working in IT
 
 ### Experience 
 2021 - RS School front-end developer course
+2015-2021 - Working as wholesale manager
 
 ### Education
 2008-2013 - Financial Management. *Saint Petersburg State University of Economics*
